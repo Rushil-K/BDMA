@@ -1,2 +1,1 @@
-# BDMA
-Big Data Management Analytics
+# Hospital Management System
