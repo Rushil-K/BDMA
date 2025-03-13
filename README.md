@@ -31,10 +31,9 @@ The **DFD** showcases how data moves through various components, such as **sched
 
 ---
 
-## Contributors  
-This project was created and maintained by:  
-- **Navneet Mittal**  
-- **Rushil Kohli**  
+## Contributors in Project 1 - ERD 
+- **Rushil Kohli**
+- **Navneet Mittal**
 
 ---
 
