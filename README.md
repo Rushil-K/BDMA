@@ -1,4 +1,4 @@
-# Hospital Management System
+# Big Data Management Analytics
 ## Overview  
 This project is a **Hospital Management System (HMS) Database** designed to efficiently manage hospital operations, including patient records, appointments, billing, inventory, and staff details. The database is built using **MySQL**, ensuring a robust and scalable solution for healthcare institutions.  
 
