@@ -31,7 +31,7 @@ The **DFD** showcases how data moves through various components, such as **sched
 
 ---
 
-## Contributors in Project 1 - ERD 
+## Contributors in Project 1 + 2  - ERD + MySQL
 - **Rushil Kohli**
 - **Navneet Mittal**
 
