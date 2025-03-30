@@ -186,6 +186,7 @@ The project includes the following files:
 
 * `kkrk2127_Movies_Dashboard_MongoDB.pdf`: Analysis of movie ratings and releases.
 
+> [PDF's of all the operations can be found here](https://github.com/Rushil-K/BDMA/tree/main/Project3%20MongoDB/PDFs%20of%20all%20the%20Operations)
 ## Conclusion
 
 This project provides a comprehensive analysis of movie data using MongoDB, demonstrating a wide range of operations and visualization techniques. The insights gained offer value in understanding movie trends, director success factors, and genre performance.
