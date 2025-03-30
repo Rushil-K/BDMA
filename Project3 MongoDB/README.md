@@ -16,12 +16,12 @@ This project is a detailed exploration of MongoDB, focusing on a variety of data
 
 ## Contributors
 
-* [Rushil Kohli](www.github.com/Rushil-K) 
-* [Khushi Kalra](www.github.com/KhushiKalra21)
+* [Rushil Kohli](https://github.com/Rushil-K) 
+* [Khushi Kalra](https://github.com/KhushiKalra21)
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/Rushil-K/BDMA?tab=Apache-2.0-1-ov-file).
+This project is licensed under the [Apache 2.0 License](https://github.com/Rushil-K/BDMA/blob/main/LICENSE).
 
 ## Project Details
 
