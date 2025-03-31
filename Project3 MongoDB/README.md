@@ -1,11 +1,8 @@
 ## Comprehensive MongoDB Project Analysis and Implementation
-
+#### Report : [Click here to view the full Report](https://colab.research.google.com/drive/1zHBHX8i0JSpu-51wR_UYioaKrc9Yw0r2?usp=sharing)
 ## Overview
 
 This project is a detailed exploration of MongoDB, focusing on a variety of database operations, in-depth data analysis, and insightful visualization. The primary goal is to demonstrate proficiency in MongoDB and to extract meaningful information, particularly related to movie data. The project covers a wide array of MongoDB functionalities, going beyond basic CRUD operations to delve into more complex data manipulation and analysis techniques. This includes leveraging the aggregation pipeline for sophisticated data transformations, employing various filtering methods to extract very specific subsets of data, and utilizing find operations for both simple and complex data retrieval scenarios. Furthermore, a significant portion of the project is dedicated to the design and implementation of informative visualizations, effectively representing movie-related data and enabling the identification of key trends and patterns. The project aims to provide a robust demonstration of MongoDB's capabilities in a real-world context.
-
-# Report
-> [Click here to view the full Report](https://colab.research.google.com/drive/1zHBHX8i0JSpu-51wR_UYioaKrc9Yw0r2?usp=sharing)
 
 * **CRUD Operations**: Implementation of fundamental database manipulations, including inserting single and multiple documents. This encompasses not only the basic creation of new data entries but also considerations for data integrity, schema design, and efficient data entry strategies.
 
