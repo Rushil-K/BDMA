@@ -44,7 +44,7 @@ The **DFD** showcases how data moves through various components, such as **sched
 
 ## License  
 This project is licensed under the **Apache License 2.0**.  
-See the [LICENSE]([LICENSE](https://github.com/Rushil-K/BDMA/blob/main/LICENSE)) file for more details.  
+See the [LICENSE](https://github.com/Rushil-K/BDMA/blob/main/LICENSE) file for more details.  
 
 ---
 
