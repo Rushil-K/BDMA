@@ -4,8 +4,8 @@ This project is a **Hospital Management System (HMS) Database** designed to effi
 
 ---
 ## Reports 
-- Project 1 - ERD Report : https://colab.research.google.com/drive/1zt0VhTfQHDOn65XvMjlr9Qiy8ylgF9vz#scrollTo=--O_6AFzxMgA
-- Project 2 - MySQL Report : https://colab.research.google.com/drive/16rglzFgmZ2ySdArv5hKlFPOAeGZF5uNs#scrollTo=zRsexAfcWZZP
+- Project 1 - [ERD Report](https://colab.research.google.com/drive/1zt0VhTfQHDOn65XvMjlr9Qiy8ylgF9vz#scrollTo=--O_6AFzxMgA)
+- Project 2 - [MySQL Report](https://colab.research.google.com/drive/16rglzFgmZ2ySdArv5hKlFPOAeGZF5uNs#scrollTo=zRsexAfcWZZP)
 
 ---
 
