@@ -37,3 +37,8 @@ To explore the projects, navigate to their respective directories and refer to t
 ---
 
 For any questions or contributions, feel free to open an issue or submit a pull request.
+
+Follow us on GitHub
+- [Rushil Kohli](https://github.com/Rushil-K)
+- [Khushi Kalra](https://github.com/KhushiKalra21)
+- [Navneet Mittal](https://github.com/Navneet-Mittal911)
