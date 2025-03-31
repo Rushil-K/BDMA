@@ -11,20 +11,20 @@ This repository contains the work done for the **BDMA (Big Data Management and A
 * **Contributors**: Rushil Kohli, Navneet Mittal  
 * **Description**: Projects 1 and 2 focus on foundational concepts of Big Data Management and Analytics.
 * **Folder**: `Projects1 + 2/`
-* **[README]()**  
+* **[README](https://github.com/Rushil-K/BDMA/blob/main/Projects1%2B2/README.md)**  
 
 ### **2\. Project 3 MongoDB**
 
 * **Contributors**: Rushil Kohli, Khushi Kalra  
 * **Description**: This project explores MongoDB as a NoSQL database solution for handling large-scale datasets. It covers database design, indexing strategies, query optimization, and real-world use cases in big data applications.  
 * **Folder**: `Project3 MongoDB/`
-* **[Folder]()**
+* **[README](https://github.com/Rushil-K/BDMA/blob/main/Project3%20MongoDB/README.md)**
 
 ### **3\. Daikin Industrial Visit**
 
 * **Description**: This section includes materials and insights from the industrial visit to Daikin. The visit focused on understanding how big data and IoT technologies are applied in manufacturing for predictive maintenance, quality control, and operational efficiency.  
 * **Folder**: `Daikin Industrial Visit/`
-* **[README]()**
+* **[FOLDER](https://github.com/Rushil-K/BDMA/tree/main/Daikin%20Industrial%20Visit)**
 
 ## **License**
 
