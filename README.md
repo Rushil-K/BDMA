@@ -28,7 +28,7 @@ This repository contains the work done for the **BDMA (Big Data Management and A
 
 ## **License**
 
-This repository is licensed under the **Apache License 2.0**. See the [LICENSE]( file for details.
+This repository is licensed under the **Apache License 2.0**. See the [LICENSE](https://github.com/Rushil-K/BDMA/blob/main/LICENSE) file for details.
 
 ## **Getting Started**
 
